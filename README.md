@@ -2,6 +2,7 @@ OS - Surveillance
 the ultimate Open Source Intelligence (OSINT)
 https://www.os-surveillance.io/
 
+
 SquatSquasher
 A tool to find domains (by primary domain name) that can be used for type squatting and other #phishing attacks.
 
